@@ -1,0 +1,5 @@
+Percent is: 1.522634e+01 is the result printed out for zero_shot.m
+so it's 15%.
+
+Percent is: 3.045267e+01 is the results printed out for svm.m
+so it's 30%.
